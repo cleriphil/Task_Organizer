@@ -1,4 +1,24 @@
-# to_do_active_record
+# To Do
+# Author:
+<p>by Cleri Philiastides</p>
 
+# Description:
 
-To Do is an app that allows a user to keep track of lists of tasks. The user may add, edit, view and delete lists and tasks. 
+<p>To Do is an app that allows a user to keep track of lists of tasks. The user may add, edit, view and delete lists and tasks. </p>
+
+# Setup: 
+
+Run postgres:
+
+  $ postgres
+
+In your project directory:
+
+  $ rake db:create
+  $ rake db:migrate
+  $ rake db:test:prepare
+  
+Run the app:
+  
+  $ ruby app.rb
+  
