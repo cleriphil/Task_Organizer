@@ -1,6 +1,6 @@
 # To Do
 # Author:
-<p>by Cleri Philiastides</p>
+<p>Cleri Philiastides</p>
 
 # Description:
 
