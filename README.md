@@ -10,15 +10,15 @@
 
 Run postgres:
 
-  $ postgres
+  `$ postgres`
 
 In your project directory:
 
-  $ rake db:create
-  $ rake db:migrate
-  $ rake db:test:prepare
+  `$ rake db:create`
+  `$ rake db:migrate`
+  `$ rake db:test:prepare`
   
 Run the app:
   
-  $ ruby app.rb
+  `$ ruby app.rb`
   
