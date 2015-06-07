@@ -20,3 +20,5 @@ Run the app:
   
   `$ ruby app.rb`
   
+MIT License
+  
