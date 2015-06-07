@@ -1,10 +1,8 @@
-## To Do
-## Author:
-<p>Cleri Philiastides</p>
+## Task Organizer
 
 ## Description:
 
-<p>To Do is an app that allows a user to keep track of lists of tasks. The user may add, edit, view and delete lists and tasks. </p>
+<p>Task Organizer is an app that allows a user to keep track of lists of tasks. The user may add, edit, view and delete lists and tasks. The app is made with Ruby and Active Record. </p>
 
 ## Setup Instructions: 
 
